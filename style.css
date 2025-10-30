@@ -12,7 +12,6 @@ body {
     min-height: 100vh;
 }
 
-/* Navbar Styling */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -67,7 +66,6 @@ body {
 }
 
 
-/* Main Content */
 main {
     max-width: 1200px;
     margin: 3rem auto;
@@ -103,7 +101,6 @@ h2::after {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
-/* Tentang Section */
 #tentang {
     overflow: auto;
 }
@@ -130,7 +127,6 @@ h2::after {
     text-align: justify;
 }
 
-/* Proyek Section */
 #proyek article {
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     padding: 2rem;
@@ -178,7 +174,6 @@ h2::after {
     transform: translateX(5px);
 }
 
-/* Kontak Section */
 #kontak p {
     font-size: 1.1rem;
     margin: 1rem 0;
